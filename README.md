@@ -1,4 +1,4 @@
-readme_content = """
+
 🧩 Tool Check Puzzle By Mr Ciphers
 ================================================
 
