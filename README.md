@@ -31,9 +31,4 @@ Not for commercial use without permission.
 
 ❤️ Made with love by Mr Ciphers.
 """
-
-# Write README.txt file
-with open("README.txt", "w", encoding="utf-8") as f:
-f.write(readme_content.strip())
-
-"✅ Created README.txt file with instructions and copyright Mr Ciphers."
+Donate BTC  : bc1qm82dcv34e2j2xpd7kshzj3w273gw4wtwf53pdx
